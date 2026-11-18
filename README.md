@@ -59,9 +59,9 @@ Compare the original, eroded, and dilated images.
 
 ## Developed By
 
-**Name:** AJIN A
+**Name:** KEERTHANA G
 
-**Register No:** 212224230011
+**Register No:** 212225040184
 
 ## Output
 
